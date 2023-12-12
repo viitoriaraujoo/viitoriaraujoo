@@ -1,24 +1,20 @@
-<h1 align="center">Oi👋, eu sou a Maria Vitória</h1>
-<h3 align="center">Sou apaixonado pela análise de dados no mundo digital.</h3>
+<h1 align="justified">Oi👋, eu sou a Maria Vitória</h1>
+<h3 align="justified">Sou apaixonado pela análise de dados no mundo digital.</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e BigQuery**
 
-- 📝 Também estou compartilhando meus estudos no Medium [Medium](https://medium.com/@viitoriaraujoo)
+- 📝 Estou compartilhando meus estudos no  [Medium](https://medium.com/@viitoriaraujoo)
 
-- 👨‍💻 Posto meus Dashboards em [https://dashboards.digital/p/mariavitoriafda](https://dashboards.digital/p/mariavitoriafda)
+- 👨‍💻 Posto meus Dashboards no meu [Portfólio](https://dashboards.digital/p/mariavitoriafda)
 
 - 💬 Me pergunte sobre **SQL,Power Bi,Excel e Google Data Studio**
 
 - 📫 Você me acha através do email **vitoriafigueiraaraujo@gmail.com**
 
-- 📄 Se quiser saber mais sobre minhas habilidades [https://www.linkedin.com/in/mvfda/](https://www.linkedin.com/in/mvfda/)
+- 📄 Se quiser saber mais sobre minhas habilidades me procura pelo [Linkedin](https://www.linkedin.com/in/mvfda/)
 
 
-<‹div>
 
-<a href="https://github.com/viitoriaraujoo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viitoriaraujoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=viitoriaraujoo&layout=compact&langs_count=16&theme-dracula"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
