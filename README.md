@@ -1,7 +1,7 @@
 <h1 align="justified">Oi👋, eu sou a Maria Vitória</h1>
 <h3 align="justified">Sou apaixonado pela análise de dados no mundo digital.</h3>
 
- 🌱 Atualmente estou aprendendo **Python, Google Analytics e BigQuery**
+ 🌱 Atualmente estou aprendendo **Pandas**
 
  📝 Estou compartilhando meus estudos no  [Medium](https://medium.com/@viitoriaraujoo)
 
