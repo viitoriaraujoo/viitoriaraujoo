@@ -7,7 +7,7 @@
 
  👨‍💻 Posto meus Dashboards no meu [Portfólio](https://dashboards.digital/p/mariavitoriafda)
 
- 💬 Me pergunte sobre **SQL,PowerBI,Excel e Python**
+ 💬 Me pergunte sobre ** Python**
 
  📫 Você me acha através do email **vitoriafigueiraaraujo@gmail.com**
 
